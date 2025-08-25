@@ -1,10 +1,12 @@
-# flask
-# tensorflow
-# numpy
-# pillow
-# gunicorn
+
+# flask==2.3.2
+# tensorflow==2.18.0
+# numpy==2.0.2
+# pillow==10.0.0
+# gunicorn==23.0.0
+# requests==2.32.5
 flask==2.3.2
-tensorflow==2.18.0
+tensorflow==2.20.0
 numpy==2.0.2
 pillow==10.0.0
 gunicorn==23.0.0
